@@ -11,13 +11,16 @@
 ### Algunos de los proyectos en los que he trabajado
 - 🎵 Estudio de los géneros musicales en Spotify para poder crear playlist personalizadas a los usuarios usando técnicas de minería de datos:
   https://github.com/patricioespinozaa/CC5205-Proyecto-Mineria-de-datos
-  
-- 🎮 Desarrollo del videojuego AstroFighters:
-  https://rodrigodm.itch.io/astrofighters
-  
-- 💻 Implementación de un hashing lineal:
-  https://github.com/rdiazmaturana/hashing-lineal
 
+- 🎮 Aplicación web de videojuegos inspirada en letterboxd:
+  https://github.com/julianferreira30/proyecto-apps-webs-react
+
+- 🎮 Videojuego AstroFighters:
+  https://rodrigodm.itch.io/astrofighters
+
+---
+
+### Proyectos propios
 - 🍉 Retail para productores de frutas y verduras en Chile:
   https://github.com/rdiazmaturana/AgrarioMarket
 
