@@ -24,8 +24,14 @@
 - 🍉 Retail para productores de frutas y verduras en Chile:
   https://github.com/rdiazmaturana/AgrarioMarket
 
-- 📱 Autoimplementación del protocolo signal:
+- 📱 Breve autoimplementación del protocolo signal:
   https://github.com/rdiazmaturana/Signal
+
+- 💾 Autoimplementación de un hashing lineal para almacenar datos:
+  https://github.com/rdiazmaturana/hashing-lineal
+
+- 🎮 Autoimplementación del juego wordle:
+  https://github.com/rdiazmaturana/Wordle
 
 ---
 
